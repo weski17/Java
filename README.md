@@ -11,7 +11,6 @@ Willkommen im Repository **Java-Programme**. Dieses Repository enthält eine Sam
   - [Projekte](#projekte)
   - [Voraussetzungen](#voraussetzungen)
   - [Installation und Ausführung](#installation-und-ausführung)
-  - [Lizenz](#lizenz)
 
 ## Überblick
 
@@ -63,8 +62,4 @@ Um die Projekte auszuführen, benötigen Sie:
      ```
 
    Stellen Sie sicher, dass Sie die spezifischen Anweisungen in den einzelnen Projektverzeichnissen beachten, da einige Projekte zusätzliche Schritte oder Abhängigkeiten erfordern können.
-
-## Lizenz
-
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE). Weitere Informationen finden Sie in der `LICENSE`-Datei in diesem Repository.
 
