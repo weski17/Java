@@ -67,3 +67,4 @@ Um die Projekte auszuführen, benötigen Sie:
 ## Lizenz
 
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE). Weitere Informationen finden Sie in der `LICENSE`-Datei in diesem Repository.
+
